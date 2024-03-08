@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+
+
+    <ImageView
+        android:layout_marginEnd="250dp"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:src="@drawable/baju"
+        android:layout_marginHorizontal="150dp"/>
+
+    <Button
+        android:id="@+id/tees01"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="160dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="-70dp"
+        android:text="Bring Me The Horizon Tees"/>/
+
+    <ImageView
+        android:layout_marginEnd="250dp"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginHorizontal="150dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/mcr"
+        />
+
+    <Button
+        android:id="@+id/tees02"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="160dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="-70dp"
+        android:text="mychem Tees"/>
+
+    <ImageView
+        android:layout_marginEnd="250dp"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/queen"
+        android:layout_marginHorizontal="150dp"
+        />
+
+    <Button
+        android:id="@+id/tees03"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="160dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="-70dp"
+        android:text="Nirvana Tees"/>
+
+    <ImageView
+        android:layout_marginEnd="250dp"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:src="@drawable/acdc"
+        android:layout_marginHorizontal="150dp"
+        android:layout_marginTop="40dp"
+        />
+
+    <Button
+        android:id="@+id/tees04"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="160dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="-70dp"
+        android:text="Avenged Sevenfold Tees"/>
+
+
+    <ImageView
+        android:layout_marginEnd="250dp"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:src="@drawable/floyd"
+        android:layout_marginTop="40dp"
+        android:layout_marginHorizontal="150dp"
+        />
+    <Button
+        android:id="@+id/tees05"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="160dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="-70dp"
+        android:text="Metallica Tees"/>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+
+  <ImageView
+      android:layout_marginEnd="250dp"
+      android:layout_width="wrap_content"
+      android:layout_height="120dp"
+      android:src="@drawable/rucas01"
+      android:layout_marginHorizontal="150dp"/>
+
+  <Button
+      android:id="@+id/Btnrucas01"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_marginHorizontal="160dp"
+      android:layout_marginStart="150dp"
+      android:layout_marginTop="-70dp"
+      android:text="Rucas 01 Jeans"/>/
+
+  <ImageView
+      android:layout_marginEnd="250dp"
+      android:layout_width="match_parent"
+      android:layout_height="120dp"
+      android:layout_marginHorizontal="150dp"
+      android:layout_marginTop="40dp"
+      android:src="@drawable/rucas02"
+      />
+
+  <Button
+      android:id="@+id/Btnrucas02"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_marginHorizontal="160dp"
+      android:layout_marginStart="150dp"
+      android:layout_marginTop="-70dp"
+      android:text="Rucas 02 Jeans"/>
+
+  <ImageView
+      android:layout_marginEnd="250dp"
+      android:layout_width="wrap_content"
+      android:layout_height="120dp"
+      android:layout_marginTop="40dp"
+      android:src="@drawable/rucas03"
+      android:layout_marginHorizontal="150dp"
+      />
+
+  <Button
+      android:id="@+id/Btnrucas03"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_marginHorizontal="160dp"
+      android:layout_marginStart="150dp"
+      android:layout_marginTop="-70dp"
+      android:text="Rucas 03 Jeans"/>
+
+  <ImageView
+      android:layout_marginEnd="250dp"
+      android:layout_width="wrap_content"
+      android:layout_height="120dp"
+      android:src="@drawable/rucas04"
+      android:layout_marginHorizontal="150dp"
+      android:layout_marginTop="40dp"
+      />
+
+  <Button
+      android:id="@+id/Btnrucas04"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_marginHorizontal="160dp"
+      android:layout_marginStart="150dp"
+      android:layout_marginTop="-70dp"
+      android:text="Rucas 04 Jeans"/>
+
+
+  <ImageView
+      android:layout_marginEnd="250dp"
+      android:layout_width="wrap_content"
+      android:layout_height="120dp"
+      android:src="@drawable/rucas05"
+      android:layout_marginTop="40dp"
+      android:layout_marginHorizontal="150dp"
+      />
+  <Button
+      android:id="@+id/Btnrucas05"
+      android:layout_width="wrap_content"
+      android:layout_height="50dp"
+      android:layout_marginHorizontal="160dp"
+      android:layout_marginStart="150dp"
+      android:layout_marginTop="-70dp"
+      android:text="Rucas 05 Jeans"/>
+
+
+
+
+</LinearLayout>

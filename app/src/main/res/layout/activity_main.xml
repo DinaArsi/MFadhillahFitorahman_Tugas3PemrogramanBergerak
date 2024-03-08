@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shopps"
+        android:gravity="center"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/baju" />
+
+    <Button
+        android:id="@+id/Btnbaju"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Baju"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/celana" />
+
+    <Button
+        android:id="@+id/Btncelana"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Celana"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:src="@drawable/sepatu" />
+
+    <Button
+        android:id="@+id/Btnshoes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sepatu" />
+
+</LinearLayout>
